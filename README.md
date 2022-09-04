@@ -1,2 +1,2 @@
 # Miscellaneous_Code
-# Some random projects I've done.
+Some random projects I've done.
